@@ -5,7 +5,7 @@
 - 💻 Studying Fullstack Web Development in <a href="https://betrybe.com">Trybe</a>;
 - 🛸 Passionate about the Cosmos, nature, animes and books;
 - 🎓 Bachelor in Law;
-- 🚀 Improving my skills in Backend Development;
+- 🚀 I am currently improving my skills in Backend Development;
 
 <br>
 
