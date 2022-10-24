@@ -3,8 +3,8 @@
 <h3 align="center">🗺️ I'm a Frontend Web Developer from Federal District, Brazil.</h3>
 
 - 💻 Learning with Trybe how to be a Fullstack Web Developer.
-- 🛸 Interessado em livros, animes e principalmente no Universo e todos as algoritmos que o definem.
-- 📚 Bacharel em Direito, e cada vez mais encantado por tecnolgia.
+- 🛸 Passionate about the Cosmos, animes and books.
+- 📚 Bachelor in Law.
 - 📫 Connect with me: [Linked](https://linkedin.com/in/ravan-bezerra/)<a href="https://linkedin.com/in/ravan-bezerra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravan-bezerra" height="15" width="15" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
