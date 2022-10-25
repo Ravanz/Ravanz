@@ -2,7 +2,7 @@
 
 <h3 align="center">🗺️ I'm a <strong>Frontend Web Developer</strong> from Federal District, Brazil.</h3>
  
-- 💻 Studying Fullstack Web Development in <a href="https://betrybe.com">Trybe</a>;
+- 💻 Studying Fullstack Web Development at <a href="https://betrybe.com">Trybe</a>;
 - 🛸 Passionate about the Cosmos, nature, animes and books;
 - 🎓 Bachelor in Law;
 - 🚀 I am currently improving my skills in Backend Development;
