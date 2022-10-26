@@ -6,9 +6,9 @@
 - 🛸 Passionate about the Cosmos, nature, animes and books;
 - 🎓 Bachelor in Law;
 - 🚀 I am currently improving my skills in Backend Development;
-- 📫 Connect with me: <a href="https://www.linkedin.com/in/ravan-bezerra/">	<img height='21px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+- 📫 Connect with me: <sub><a href="https://www.linkedin.com/in/ravan-bezerra/">	<img height='21px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	<a href="mailto:ravanbezti@gmail.com">	<img height='21px' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <a/>
+		<a/></sub>
 
 <br>
 
