@@ -20,10 +20,9 @@
 <p align="justify">
   🎓 Fullstack Web Developer, graduated from <a href="https://betrybe.com">Trybe</a><br>
   📚 A tech enthusiast passionate about coding, cosmos, and continuous learning<br>
-  🎓 Transitioned from a Bachelor's in Law to pursue a dynamic career in technology
+  🎓 Transitioned from a Bachelor's in Law to pursue a dynamic career in technology<br>
   🚀 Currently enhancing my Backend Development skills, with a focus on Python<br>
 </p>
-
 <br>
 
 <h2 align="center"> 🔭 Technologies</h2>
