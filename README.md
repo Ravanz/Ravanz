@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Ravanz?v=4" alt="Ravan Bezerra" width="150px">
-</div>
 
 <h1 align="center"> 👋 Hello, World! I'm Ravan Bezerra</h1>
 
