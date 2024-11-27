@@ -15,15 +15,15 @@
 </p>
 
 <p align="justify">
-  🎓 Fullstack Web Developer, graduated from <a href="https://betrybe.com">Trybe</a><br>
+  🎓 Fullstack Developer, graduated from <a href="https://betrybe.com">Trybe</a><br>
   📚 A tech enthusiast passionate about coding, cosmos, and continuous learning<br>
-  🎓 Transitioned from a Bachelor's in Law to pursue a dynamic career in technology<br>
-  🚀 Currently working at BIUD as a fullstack developer, with focus on PHP<br>
+  🎓 Transitioned from a Bachelor's in Law to pursue a dynamic career in technology, starting as Q.A.<br>
+  🚀 Currently working as a fullstack developer, with focus on Typescript and Node.js.<br>
 </p>
 <br>
 
 <h2 align="center"> 🔭 Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,php,docker,mysql,jest,nodejs,python,git" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=ts,react,redux,php,docker,mysql,jest,nodejs,python,git" alt="Technologies">
 </p>
